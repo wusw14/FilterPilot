@@ -1,0 +1,450 @@
+{
+    "diphosgene": [
+        "liquid diphosgene",
+        "gaseous diphosgene",
+        "diphosgene"
+    ],
+    "trichloromethyl carbonochloridate": [
+        "liquid diphosgene",
+        "gaseous diphosgene",
+        "diphosgene"
+    ],
+    "trichloromethyl chloroformate": [
+        "liquid diphosgene",
+        "gaseous diphosgene",
+        "diphosgene"
+    ],
+    "adamsite": [
+        "gaseous adamsite",
+        "liquid adamsite",
+        "solid adamsite",
+        "adamsite"
+    ],
+    "10-Chloro-5,10-dihydrophenazarsinine": [
+        "gaseous adamsite",
+        "liquid adamsite",
+        "solid adamsite",
+        "adamsite"
+    ],
+    "pyrimidine": [
+        "cytosine",
+        "pyrimidine",
+        "deoxyuridine",
+        "deoxycytidine",
+        "bromodeoxyuridine",
+        "uridine",
+        "uracil",
+        "thymine",
+        "barbituric acid",
+        "thymidine",
+        "dihydrouracil"
+    ],
+    "1,3-Diazabenzene": [
+        "cytosine",
+        "pyrimidine",
+        "deoxyuridine",
+        "deoxycytidine",
+        "bromodeoxyuridine",
+        "uridine",
+        "uracil",
+        "thymine",
+        "barbituric acid",
+        "thymidine",
+        "dihydrouracil"
+    ],
+    "hexane": [
+        "hexane molecule",
+        "hexane",
+        "liquid hexane"
+    ],
+    "hexacarbane": [
+        "hexane molecule",
+        "hexane",
+        "liquid hexane"
+    ],
+    "phenyldichloroarsine": [
+        "phenyldichloroarsine",
+        "liquid phenyldichloroarsine",
+        "gaseous phenyldichloroarsine"
+    ],
+    "phenylarsonous dichloride": [
+        "phenyldichloroarsine",
+        "liquid phenyldichloroarsine",
+        "gaseous phenyldichloroarsine"
+    ],
+    "Trichloromethane": [
+        "liquid chloroform",
+        "chloroform",
+        "gaseous chloroform"
+    ],
+    "chloroform": [
+        "liquid chloroform",
+        "chloroform",
+        "gaseous chloroform"
+    ],
+    "cyanogen chloride": [
+        "liquid cyanogen chloride",
+        "cyanogen chloride",
+        "gaseous cyanogen chloride"
+    ],
+    "carbononitridic chloride": [
+        "liquid cyanogen chloride",
+        "cyanogen chloride",
+        "gaseous cyanogen chloride"
+    ],
+    "carbon dioxide": [
+        "carbon dioxide",
+        "carbon dioxide molecule",
+        "gaseous carbon dioxide"
+    ],
+    "CO2": [
+        "carbon dioxide",
+        "carbon dioxide molecule",
+        "gaseous carbon dioxide"
+    ],
+    "ozone": [
+        "ozone",
+        "o3",
+        "ozone molecule"
+    ],
+    "O3": [
+        "ozone",
+        "o3",
+        "ozone molecule"
+    ],
+    "diphenylcyanoarsine": [
+        "liquid diphenylcyanoarsine",
+        "gaseous diphenylcyanoarsine",
+        "diphenylcyanoarsine"
+    ],
+    "diphenylarsinous cyanide": [
+        "liquid diphenylcyanoarsine",
+        "gaseous diphenylcyanoarsine",
+        "diphenylcyanoarsine"
+    ],
+    "hydrazine": [
+        "hydrazine",
+        "monomethylhydrazine",
+        "phenelzine",
+        "unsymmetrical dimethylhydrazine",
+        "1,2 dimethylhydrazine"
+    ],
+    "leucoanthocyanidin": [
+        "leucofisetinidin",
+        "leucopelargonidin",
+        "teracacidin",
+        "leucodelphinidin",
+        "leucorobinetinidin",
+        "leucomalvidin",
+        "melacacidin",
+        "leucoanthocyanidin",
+        "leucocyanidin",
+        "leucopeonidin"
+    ],
+    "glucose": [
+        "d glucose",
+        "glucose molecule",
+        "one simple form of sugar",
+        "glucose",
+        "dextrose",
+        "dextroglucose"
+    ],
+    "dextrose": [
+        "d glucose",
+        "glucose molecule",
+        "one simple form of sugar",
+        "glucose",
+        "dextrose",
+        "dextroglucose"
+    ],
+    "cellulose": [
+        "hypromellose",
+        "methyl cellulose",
+        "hydroxypropyl cellulose",
+        "cellulose acetate",
+        "cellulose molecule",
+        "nitrocellulose",
+        "carboxymethyl cellulose",
+        "cellulose"
+    ],
+    "propoxur": [
+        "propoxur",
+        "liquid propoxur",
+        "gaseous propoxur"
+    ],
+    "2-[(Propan-2-yl)oxy]phenyl methylcarbamate": [
+        "propoxur",
+        "liquid propoxur",
+        "gaseous propoxur"
+    ],
+    "aluminium oxide": [
+        "aluminium oxide",
+        "aluminium ii oxide",
+        "aluminium i oxide",
+        "aluminium monoxide",
+        "alumina"
+    ],
+    "sodium cyanide": [
+        "sodium cyanide",
+        "liquid sodium cyanide",
+        "gaseous sodium cyanide"
+    ],
+    "NaCN": [
+        "sodium cyanide",
+        "liquid sodium cyanide",
+        "gaseous sodium cyanide"
+    ],
+    "xanthine": [
+        "xanthine",
+        "theophylline",
+        "paraxanthine",
+        "theobromine"
+    ],
+    "3,7-dihydropurine-2,6-dione": [
+        "xanthine",
+        "theophylline",
+        "paraxanthine",
+        "theobromine"
+    ],
+    "carbon monoxide": [
+        "gaseous carbon monoxide",
+        "carbon monoxide"
+    ],
+    "CO": [
+        "gaseous carbon monoxide",
+        "carbon monoxide"
+    ],
+    "lewisite": [
+        "gaseous lewisite",
+        "liquid lewisite",
+        "lewisite"
+    ],
+    "[(E)-2-Chloroethen-1-yl]arsonous dichloride": [
+        "gaseous lewisite",
+        "liquid lewisite",
+        "lewisite"
+    ],
+    "ammonia": [
+        "liquid ammonia",
+        "ammonium hydroxide",
+        "anhydrous ammonia",
+        "ammonia",
+        "active ingredient in windex"
+    ],
+    "Azane": [
+        "liquid ammonia",
+        "ammonium hydroxide",
+        "anhydrous ammonia",
+        "ammonia",
+        "active ingredient in windex"
+    ],
+    "perfluoroisobutene": [
+        "gaseous perfluoroisobutene",
+        "perfluoroisobutene",
+        "liquid perfluoroisobutene"
+    ],
+    "1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)prop-1-ene": [
+        "gaseous perfluoroisobutene",
+        "perfluoroisobutene",
+        "liquid perfluoroisobutene"
+    ],
+    "calcium carbonate": [
+        "calcium carbonate",
+        "calcite",
+        "aragonite",
+        "vaterite"
+    ],
+    "calcite": [
+        "calcium carbonate",
+        "calcite",
+        "aragonite",
+        "vaterite"
+    ],
+    "cholesterol": [
+        "hdl cholesterol",
+        "cholesterol",
+        "ldl cholesterol",
+        "cholesterol molecule"
+    ],
+    "Cholesterin": [
+        "hdl cholesterol",
+        "cholesterol",
+        "ldl cholesterol",
+        "cholesterol molecule"
+    ],
+    "phosgene": [
+        "phosgene",
+        "gaseous phosgene",
+        "liquid phosgene"
+    ],
+    "Carbonyl dichloride": [
+        "phosgene",
+        "gaseous phosgene",
+        "liquid phosgene"
+    ],
+    "hydrogen peroxide": [
+        "hydrogen peroxide",
+        "gaseous hydrogen peroxide",
+        "liquid hydrogen peroxide"
+    ],
+    "H2O2": [
+        "hydrogen peroxide",
+        "gaseous hydrogen peroxide",
+        "liquid hydrogen peroxide"
+    ],
+    "fructose": [
+        "d fructose",
+        "fructose molecule",
+        "l\u00e6vulose",
+        "fructose",
+        "levulose",
+        "l fructose"
+    ],
+    "purine": [
+        "xanthine",
+        "purine",
+        "inosinic acid",
+        "guanine",
+        "deoxyadenosine",
+        "adenine",
+        "xanthosine",
+        "calcium inosinate",
+        "paraxanthine",
+        "hypoxanthine"
+    ],
+    "methane": [
+        "methane",
+        "methane molecule",
+        "liquid methane"
+    ],
+    "CH4": [
+        "methane",
+        "methane molecule",
+        "liquid methane"
+    ],
+    "butane": [
+        "butane",
+        "n butane",
+        "isobutane",
+        "butane molecule"
+    ],
+    "methanol": [
+        "liquid methanol",
+        "methanol",
+        "methanol molecule"
+    ],
+    "CH3OH": [
+        "liquid methanol",
+        "methanol",
+        "methanol molecule"
+    ],
+    "soman": [
+        "soman gas",
+        "soman",
+        "liquid soman"
+    ],
+    "3,3-Dimethylbutan-2-yl methylphosphonofluoridate": [
+        "soman gas",
+        "soman",
+        "liquid soman"
+    ],
+    "propane": [
+        "propane molecule",
+        "liquid propane",
+        "propane"
+    ],
+    "C3H8": [
+        "propane molecule",
+        "liquid propane",
+        "propane"
+    ],
+    "sarin": [
+        "sarin",
+        "sarin gas",
+        "liquid sarin"
+    ],
+    "silicon dioxide": [
+        "silicon dioxide",
+        "silicon dioxide region semiconductor"
+    ],
+    "SiO2": [
+        "silicon dioxide",
+        "silicon dioxide region semiconductor"
+    ],
+    "nitroimidazole": [
+        "nitroimidazole",
+        "secnidazole",
+        "tinidazole",
+        "tenonitrozole",
+        "metronidazole",
+        "nimorazole",
+        "ornidazole"
+    ],
+    "cyclosarin": [
+        "cyclosarin",
+        "liquid cyclosarin",
+        "gaseous cyclosarin"
+    ],
+    "Cyclohexyl methylphosphonofluoridate": [
+        "cyclosarin",
+        "liquid cyclosarin",
+        "gaseous cyclosarin"
+    ],
+    "hydrocyanic acid": [
+        "hydrogen cyanide gas",
+        "liquid hydrocyanic acid",
+        "hydrogen cyanide",
+        "hydrocyanic acid"
+    ],
+    "Formonitrile":[
+        "hydrogen cyanide gas",
+        "liquid hydrocyanic acid",
+        "hydrogen cyanide",
+        "hydrocyanic acid"
+    ],
+    "liquid cyanide": [
+        "liquid sodium cyanide",
+        "liquid hydrocyanic acid",
+        "liquid cyanide"
+    ],
+    "pde selective inhibitor": [
+        "pde2 inhibitor",
+        "pde5 selective inhibitor",
+        "pde3 selective inhibitor",
+        "pde4 inhibitor",
+        "pde1 selective inhibitor",
+        "pde selective inhibitor"
+    ],
+    "cyanide gas": [
+        "cyanide gas",
+        "hydrogen cyanide gas",
+        "gaseous sodium cyanide",
+        "gaseous cyanogen chloride"
+    ],
+    "chlorophyll molecule": [
+        "chlorophyll d",
+        "chlorophyll f",
+        "chlorophyll b molecule",
+        "chlorophyll",
+        "chlorophyll molecule",
+        "chlorophyll b",
+        "p700 chlorophyll molecule",
+        "p680 chlorophyll molecule"
+    ],
+    "limonoid": [
+        "limonoid",
+        "azadirachtin",
+        "limonin",
+        "nomilin"
+    ],
+    "chlorophyll": [
+        "chlorophyll d",
+        "chlorophyll f",
+        "chlorophyll b molecule",
+        "chlorophyll",
+        "chlorophyll molecule",
+        "chlorophyll b",
+        "p700 chlorophyll molecule",
+        "p680 chlorophyll molecule"
+    ]
+}

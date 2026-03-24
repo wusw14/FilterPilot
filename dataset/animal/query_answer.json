@@ -1,0 +1,952 @@
+{
+    "echidna": [
+        "eastern long beaked echidna",
+        "echidna",
+        "long beaked echidna",
+        "short beaked echidna",
+        "western long beaked echidna"
+    ],
+    "spiny anteaters": [
+        "eastern long beaked echidna",
+        "echidna",
+        "long beaked echidna",
+        "short beaked echidna",
+        "western long beaked echidna"
+    ],
+    "monkey": [
+        "baboon",
+        "campbell's monkey",
+        "capuchin monkey",
+        "guenon",
+        "howler monkey",
+        "monkey",
+        "spider monkey",
+        "squirrel monkey",
+        "white faced capuchin"
+    ],
+    "zebra": [
+        "burchell's zebra",
+        "cape mountain zebra",
+        "damara zebra",
+        "grant's zebra",
+        "grevy's zebra",
+        "hartmann's mountain zebra",
+        "mountain zebra",
+        "plains zebra",
+        "quagga",
+        "zebra"
+    ],
+    "barn owl": [
+        "barn owl",
+        "tyto",
+        "tyto alba",
+        "western barn owl"
+    ],
+    "boa constrictor": [
+        "boa constrictor",
+        "puerto rican boa",
+        "virgin islands tree boa"
+    ],
+    "common boa": [
+        "boa constrictor",
+        "puerto rican boa",
+        "virgin islands tree boa"
+    ],
+    "rhea": [
+        "american rhea",
+        "darwin's rhea",
+        "rhea",
+        "rhea bird"
+    ],
+    "South American ostrich": [
+        "american rhea",
+        "darwin's rhea",
+        "rhea",
+        "rhea bird"
+    ],
+    "carp": [
+        "bighead carp",
+        "black carp",
+        "carp",
+        "common carp",
+        "crucian carp",
+        "gold fish",
+        "goldfish",
+        "grass carp",
+        "koi",
+        "prussian carp",
+        "silver carp"
+    ],
+    "camel": [
+        "bactrian camel",
+        "camel",
+        "dromedary"
+    ],
+    "European bison": [
+        "carpathian wisent",
+        "caucasian wisent",
+        "lowland wisent",
+        "wisent"
+    ],
+    "wisent": [
+        "carpathian wisent",
+        "caucasian wisent",
+        "lowland wisent",
+        "wisent"
+    ],
+    "hummingbird": [
+        "amazilia",
+        "amethyst woodstar",
+        "andean hillstar",
+        "anna's hummingbird",
+        "bee hummingbird",
+        "berylline hummingbird",
+        "black inca",
+        "black tailed trainbearer",
+        "bronzy inca",
+        "brown inca",
+        "buff tailed sicklebill",
+        "chilean woodstar",
+        "collared inca",
+        "copper rumped hummingbird",
+        "escudo hummingbird",
+        "green hermit",
+        "hummingbird",
+        "magenta throated woodstar",
+        "purple collared woodstar",
+        "purple throated woodstar",
+        "ramphomicron",
+        "ruby throated hummingbird",
+        "short tailed woodstar",
+        "slender tailed woodstar",
+        "sparkling tailed woodstar",
+        "trochilus",
+        "violetear",
+        "white vented plumeleteer"
+    ],
+    "anchovy": [
+        "anchovy",
+        "anchovy intended for sale",
+        "engraulis encrasicolus"
+    ],
+    "kingfisher": [
+        "alcedo",
+        "belted kingfisher",
+        "common kingfisher",
+        "guam micronesia kingfisher",
+        "kingfisher",
+        "kookaburra",
+        "pied kingfisher",
+        "sacred kingfisher",
+        "white throated kingfisher"
+    ],
+    "rat": [
+        "brown rat",
+        "key largo woodrat",
+        "morro bay kangaroo rat",
+        "rat",
+        "rats",
+        "rice rat",
+        "spiny rat"
+    ],
+    "salmon": [
+        "atlantic salmon",
+        "chinook salmon",
+        "chum salmon",
+        "coho salmon",
+        "oncorhynchus",
+        "salmon",
+        "sockeye salmon"
+    ],
+    "peacock": [
+        "female partner to peacock",
+        "peachick",
+        "peacock",
+        "peafowl",
+        "peahen"
+    ],
+    "pygmy goose": [
+        "african pygmy goose",
+        "cotton pygmy goose",
+        "green pygmy goose",
+        "pygmy goose"
+    ],
+    "field mouse": [
+        "amargosa vole",
+        "field mouse",
+        "florida salt marsh vole",
+        "hualapai mexican vole"
+    ],
+    "vole": [
+        "amargosa vole",
+        "field mouse",
+        "florida salt marsh vole",
+        "hualapai mexican vole"
+    ],
+    "pangolin": [
+        "chinese pangolin",
+        "giant pangolin",
+        "ground pangolin",
+        "indian pangolin",
+        "long tailed pangolin",
+        "pangolin",
+        "sunda pangolin",
+        "tree pangolin"
+    ],
+    "sandhill crane": [
+        "florida sandhill crane",
+        "mississippi sandhill crane",
+        "sandhill crane"
+    ],
+    "crossbill": [
+        "common crossbill",
+        "crossbill",
+        "red crossbill"
+    ],
+    "trout": [
+        "brook trout",
+        "cutthroat trout",
+        "gila trout",
+        "gillaroo",
+        "greenback cutthroat trout",
+        "lahontan cutthroat trout",
+        "little kern golden trout",
+        "paiute cutthroat trout",
+        "rainbow trout",
+        "trout"
+    ],
+    "guinea pig": [
+        "brazilian guinea pig",
+        "cavia",
+        "cavia anolaimae",
+        "cavia guianae",
+        "cavy",
+        "guinea pig",
+        "skinny pig"
+    ],
+    "cavy": [
+        "brazilian guinea pig",
+        "cavia",
+        "cavia anolaimae",
+        "cavia guianae",
+        "cavy",
+        "guinea pig",
+        "skinny pig"
+    ],
+    "wildcat": [
+        "european wildcat",
+        "scottish wildcat",
+        "wildcat"
+    ],
+    "flamingo": [
+        "andean flamingo",
+        "caribbean flamingo",
+        "chilean flamingo",
+        "flamingo",
+        "greater flamingo",
+        "james's flamingo",
+        "lesser flamingo"
+    ],
+    "termite": [
+        "formosan subterranean termite",
+        "globitermes sulphureus",
+        "mastotermes",
+        "mound building termite",
+        "termite"
+    ],
+    "hammerhead shark": [
+        "bonnethead",
+        "great hammerhead",
+        "hammer head shark",
+        "hammerhead shark",
+        "scalloped hammerhead",
+        "smalleye hammerhead",
+        "smooth hammerhead",
+        "winghead shark"
+    ],
+    "hammerhead": [
+        "bonnethead",
+        "great hammerhead",
+        "hammer head shark",
+        "hammerhead shark",
+        "scalloped hammerhead",
+        "smalleye hammerhead",
+        "smooth hammerhead",
+        "winghead shark"
+    ],
+    "eider": [
+        "common eider",
+        "eider",
+        "king eider",
+        "spectacled eider",
+        "steller's eider"
+    ],
+    "large seaduck": [
+        "common eider",
+        "eider",
+        "king eider",
+        "spectacled eider",
+        "steller's eider"
+    ],
+    "sparrow": [
+        "cape sable seaside sparrow",
+        "chipping sparrow",
+        "field sparrow",
+        "florida grasshopper sparrow",
+        "java sparrow",
+        "rufous collared sparrow",
+        "san clemente sage sparrow",
+        "song sparrow",
+        "sparrow",
+        "swamp sparrow",
+        "vesper sparrow",
+        "white crowned sparrow",
+        "white throated sparrow",
+        "zapata sparrow"
+    ],
+    "giraffe": [
+        "giraffe",
+        "kordofan giraffe",
+        "masai giraffe",
+        "rothschild giraffe",
+        "somali giraffe"
+    ],
+    "cougar": [
+        "cougar",
+        "eastern cougar",
+        "florida panther"
+    ],
+    "puma": [
+        "cougar",
+        "eastern cougar",
+        "florida panther"
+    ],
+    "mountain lion": [
+        "cougar",
+        "eastern cougar",
+        "florida panther"
+    ],
+    "catamount": [
+        "cougar",
+        "eastern cougar",
+        "florida panther"
+    ],
+    "panther": [
+        "cougar",
+        "eastern cougar",
+        "florida panther"
+    ],
+    "hoolock gibbon": [
+        "eastern hoolock gibbon",
+        "hoolock gibbon",
+        "western hoolock gibbon"
+    ],
+    "male horse": [
+        "colt",
+        "male horse",
+        "stallion"
+    ],
+    "ground squirrel": [
+        "african ground squirrel",
+        "barbary ground squirrel",
+        "berdmore's ground squirrel",
+        "ground squirrel",
+        "long clawed ground squirrel",
+        "striped ground squirrel",
+        "suslik"
+    ],
+    "widow spider": [
+        "black widow spider",
+        "brown widow",
+        "latrodectus",
+        "latrodectus corallinus",
+        "latrodectus jubatus",
+        "latrodectus lilianae",
+        "latrodectus mactans",
+        "latrodectus tredecimguttatus",
+        "red widow spider",
+        "widow spider"
+    ],
+    "latrodectus": [
+        "black widow spider",
+        "brown widow",
+        "latrodectus",
+        "latrodectus corallinus",
+        "latrodectus jubatus",
+        "latrodectus lilianae",
+        "latrodectus mactans",
+        "latrodectus tredecimguttatus",
+        "red widow spider",
+        "widow spider"
+    ],
+    "cocker spaniel": [
+        "black cocker spaniel",
+        "cocker spaniel",
+        "cocker spaniel a.s.c.o.b",
+        "english cocker spaniel",
+        "parti colored cocker spaniel"
+    ],
+    "bark scorpion": [
+        "arizona bark scorpion",
+        "bark scorpion",
+        "striped bark scorpion"
+    ],
+    "poodle": [
+        "miniature poodle",
+        "miniature poodles",
+        "poodle",
+        "standard poodle",
+        "standard poodles",
+        "toy poodle",
+        "toy poodles"
+    ],
+    "african elephant": [
+        "african bush elephant",
+        "african elephant",
+        "african forest elephant",
+        "african savanna elephant",
+        "african savannah elephant"
+    ],
+    "belgian sheepdog": [
+        "belgian groenendael",
+        "belgian laekenois",
+        "belgian malinois",
+        "belgian sheepdog",
+        "belgian shepherd dog groenendael",
+        "belgian shepherd dog laekenois",
+        "belgian tervuren",
+        "groenendael"
+    ],
+    "belgian shepherd": [
+        "belgian groenendael",
+        "belgian laekenois",
+        "belgian malinois",
+        "belgian sheepdog",
+        "belgian shepherd dog groenendael",
+        "belgian shepherd dog laekenois",
+        "belgian tervuren",
+        "groenendael"
+    ],
+    "sea horse": [
+        "pygmy seahorse",
+        "sea horse",
+        "seahorse"
+    ],
+    "turkey": [
+        "domestic turkey",
+        "ocellated turkey",
+        "turkey",
+        "turkey cock",
+        "turkey hen",
+        "wild turkey"
+    ],
+    "flea": [
+        "cat flea",
+        "chigoe flea",
+        "echidna flea",
+        "flea",
+        "human flea",
+        "rat flea"
+    ],
+    "beaver": [
+        "adult beaver",
+        "agnotocastor galushai",
+        "american beaver",
+        "beaver",
+        "european beaver",
+        "point arena mountain beaver"
+    ],
+    "alligator": [
+        "alligator",
+        "american alligator",
+        "chinese alligator",
+        "large alligator",
+        "small alligator"
+    ],
+    "vireo": [
+        "black capped vireo",
+        "leastbell's vireo",
+        "red eyed vireo",
+        "vireo",
+        "yellow throated vireo"
+    ],
+    "coot": [
+        "american coot",
+        "coot",
+        "mascarene coot"
+    ],
+    "gopher tortoise": [
+        "florida gopher tortoise",
+        "gopher tortoise"
+    ],
+    "pigeon": [
+        "band tailed pigeon",
+        "barbary dove",
+        "blue pigeon",
+        "carrier pigeon",
+        "common wood pigeon",
+        "crested pigeon",
+        "crowned pigeon",
+        "domestic pigeon",
+        "dove",
+        "ectopistes migratorius",
+        "gal\u00e1pagos dove",
+        "green pigeon",
+        "inca dove",
+        "many coloured fruit dove",
+        "mauritius blue pigeon",
+        "pigeon",
+        "pin tailed green pigeon",
+        "puerto rican plain pigeon",
+        "rock dove",
+        "silvery pigeon",
+        "snow pigeon",
+        "stock dove",
+        "tooth billed pigeon",
+        "white collared pigeon",
+        "zenaida dove"
+    ],
+    "dachshund": [
+        "adult dachshund",
+        "dachshund",
+        "long haired dachshund",
+        "miniature dachshund",
+        "smooth coated dachshund",
+        "standard dachshund",
+        "standard dachshunds",
+        "toy dachshunds",
+        "wire haired dachshund"
+    ],
+    "wiener dog": [
+        "adult dachshund",
+        "dachshund",
+        "long haired dachshund",
+        "miniature dachshund",
+        "smooth coated dachshund",
+        "standard dachshund",
+        "standard dachshunds",
+        "toy dachshunds",
+        "wire haired dachshund"
+    ],
+    "badger dog": [
+        "adult dachshund",
+        "dachshund",
+        "long haired dachshund",
+        "miniature dachshund",
+        "smooth coated dachshund",
+        "standard dachshund",
+        "standard dachshunds",
+        "toy dachshunds",
+        "wire haired dachshund"
+    ],
+    "sausage dog": [
+        "adult dachshund",
+        "dachshund",
+        "long haired dachshund",
+        "miniature dachshund",
+        "smooth coated dachshund",
+        "standard dachshund",
+        "standard dachshunds",
+        "toy dachshunds",
+        "wire haired dachshund"
+    ],
+    "eared seal": [
+        "eared seal",
+        "guadalupe fur seal",
+        "sea lion",
+        "steller sea lion"
+    ],
+    "otariid": [
+        "eared seal",
+        "guadalupe fur seal",
+        "sea lion",
+        "steller sea lion"
+    ],
+    "otary": [
+        "eared seal",
+        "guadalupe fur seal",
+        "sea lion",
+        "steller sea lion"
+    ],
+    "firefly": [
+        "firefly",
+        "glow worm",
+        "glowworm"
+    ],
+    "glowworm": [
+        "firefly",
+        "glow worm",
+        "glowworm"
+    ],
+    "crayfish": [
+        "cambarus aculabrum",
+        "cambarus zophonastes",
+        "crayfish",
+        "marmorkrebs",
+        "nashville crayfish",
+        "shasta crayfish",
+        "signal crayfish"
+    ],
+    "sea gull": [
+        "american herring gull",
+        "european herring gull",
+        "glaucous gull",
+        "great black backed gull",
+        "ivory gull",
+        "lesser black backed gull",
+        "sabine's gull",
+        "sea gull",
+        "swallow tailed gull"
+    ],
+    "beach mouse": [
+        "alabama beach mouse",
+        "anastasia island beach mouse",
+        "beach mouse",
+        "choctawahatchee beach mouse",
+        "perdido key beach mouse",
+        "southeastern beach mouse"
+    ],
+    "oldfield mouse": [
+        "alabama beach mouse",
+        "anastasia island beach mouse",
+        "beach mouse",
+        "choctawahatchee beach mouse",
+        "perdido key beach mouse",
+        "southeastern beach mouse"
+    ],
+    "pony": [
+        "assateague pony",
+        "juvenile assateague pony",
+        "pony",
+        "shetland pony",
+        "welsh pony"
+    ],
+    "reindeer": [
+        "barren ground caribou",
+        "caribou",
+        "peary caribou",
+        "reindeer",
+        "woodland caribou"
+    ],
+    "caribou": [
+        "barren ground caribou",
+        "caribou",
+        "peary caribou",
+        "reindeer",
+        "woodland caribou"
+    ],
+    "cutthroat trout": [
+        "cutthroat trout",
+        "greenback cutthroat trout",
+        "lahontan cutthroat trout",
+        "paiute cutthroat trout"
+    ],
+    "ridley sea turtle": [
+        "atlantic ridley sea turtle",
+        "kemp's ridley sea turtle",
+        "olive ridley sea turtle",
+        "ridley sea turtle"
+    ],
+    "crow": [
+        "american crow",
+        "carrion crow",
+        "collared crow",
+        "crow",
+        "hawaiian crow",
+        "hooded crow",
+        "jungle crow",
+        "mariana crow",
+        "rook"
+    ],
+    "rhinoceros": [
+        "black rhinoceros",
+        "indian rhinoceros",
+        "javan rhinoceros",
+        "lesser one horned rhinoceros",
+        "rhinoceros",
+        "sumatran rhinoceros",
+        "white rhinoceros",
+        "woolly rhinoceros"
+    ],
+    "rhino": [
+        "black rhinoceros",
+        "indian rhinoceros",
+        "javan rhinoceros",
+        "lesser one horned rhinoceros",
+        "rhinoceros",
+        "sumatran rhinoceros",
+        "white rhinoceros",
+        "woolly rhinoceros"
+    ],
+    "goldfinch": [
+        "american goldfinch",
+        "eastern goldfinch",
+        "european goldfinch",
+        "goldfinch",
+        "iowa state bird",
+        "lesser goldfinch"
+    ],
+    "sea cucumber": [
+        "orange footed sea cucumber",
+        "scotoplanes",
+        "sea apple",
+        "sea cucumber"
+    ],
+    "swan": [
+        "black necked swan",
+        "black swan",
+        "coscoroba swan",
+        "giant swan",
+        "mute swan",
+        "swan",
+        "trumpeter swan",
+        "tundra swan",
+        "whooper swan"
+    ],
+    "collie": [
+        "collie",
+        "english collie",
+        "rough coated collie",
+        "rough collie",
+        "smooth coated collie",
+        "smooth collie"
+    ],
+    "black and tan terrier": [
+        "black and tan terrier",
+        "standard manchester terrier",
+        "standard manchester terriers",
+        "toy manchester terrier",
+        "toy manchester terriers"
+    ],
+    "porpoise": [
+        "burmeister's porpoise",
+        "dall's porpoise",
+        "finless porpoise",
+        "harbour porpoise",
+        "porpoise",
+        "spectacled porpoise",
+        "vaquita"
+    ],
+    "pit viper": [
+        "agkistrodon piscivorus",
+        "copperhead",
+        "crotalus lepidus",
+        "crotalus scutulatus",
+        "crotalus tigris",
+        "pit viper",
+        "rattler",
+        "rattlesnake",
+        "sidewinder rattlesnake",
+        "water moccasin",
+        "western diamondback rattlesnake"
+    ],
+    "crotalinae": [
+        "agkistrodon piscivorus",
+        "copperhead",
+        "crotalus lepidus",
+        "crotalus scutulatus",
+        "crotalus tigris",
+        "pit viper",
+        "rattler",
+        "rattlesnake",
+        "sidewinder rattlesnake",
+        "water moccasin",
+        "western diamondback rattlesnake"
+    ],
+    "pit adders": [
+        "agkistrodon piscivorus",
+        "copperhead",
+        "crotalus lepidus",
+        "crotalus scutulatus",
+        "crotalus tigris",
+        "pit viper",
+        "rattler",
+        "rattlesnake",
+        "sidewinder rattlesnake",
+        "water moccasin",
+        "western diamondback rattlesnake"
+    ],
+    "ribbed newt": [
+        "algerian ribbed newt",
+        "iberian ribbed newt",
+        "ribbed newt"
+    ],
+    "water snake": [
+        "atlantic salt marsh snake",
+        "concho water snake",
+        "dice snake",
+        "water moccasin",
+        "water snake"
+    ],
+    "caiman": [
+        "black caiman",
+        "broad snouted caiman",
+        "caiman",
+        "cuvier's dwarf caiman",
+        "smooth fronted caiman",
+        "spectacled caiman",
+        "yacare caiman"
+    ],
+    "cayman": [
+        "black caiman",
+        "broad snouted caiman",
+        "caiman",
+        "cuvier's dwarf caiman",
+        "smooth fronted caiman",
+        "spectacled caiman",
+        "yacare caiman"
+    ],
+    "vampire bat": [
+        "common vampire bat",
+        "hairy legged vampire bat",
+        "vampire bat",
+        "white winged vampire bat"
+    ],
+    "scoter": [
+        "black scoter",
+        "common scoter",
+        "scoter",
+        "surf scoter",
+        "velvet scoter",
+        "white winged scoter"
+    ],
+    "scallop": [
+        "atlantic calico scallop",
+        "chesapecten jeffersonius",
+        "fanshell",
+        "mesopeplum convexum",
+        "nodipecten",
+        "nodipecten magnificus",
+        "rough scallop",
+        "scallop"
+    ],
+    "mussel": [
+        "alabama lampmussel",
+        "appalachian monkeyface pearly mussel",
+        "arkansas fatmucket",
+        "birdwing pearly mussel",
+        "black clubshell",
+        "carolina heelsplitter",
+        "clubshell",
+        "cumberland bean pearly mussel",
+        "cumberland monkeyface pearly mussel",
+        "cumberland pigtoe",
+        "curtis pearly mussel",
+        "dromedary pearly mussel",
+        "dwarf wedge mussel",
+        "fanshell",
+        "fine rayed pigtoe",
+        "green blossom pearly mussel",
+        "higgins eye pearly mussel",
+        "inflated heelsplitter",
+        "james river spinymussel",
+        "little wing pearly mussel",
+        "mussel",
+        "northern riffleshell",
+        "orange nacre mucket",
+        "ouachita rock pocketbook",
+        "ovate clubshell",
+        "pale lilliput pearly mussel",
+        "pearly mussel",
+        "pink mucket pearly mussel",
+        "ring pink mussel",
+        "rough pigtoe",
+        "shiny pigtoe",
+        "southern acornshell",
+        "southern clubshell",
+        "southern pigtoe",
+        "swan mussel",
+        "tan riffleshell",
+        "tar river spinymussel",
+        "tubercled blossom pearly mussel",
+        "turgid blossom pearly mussel",
+        "white wartyback pearly mussel",
+        "winged mapleleaf mussel",
+        "yellow blossom pearly mussel"
+    ],
+    "fruit fly": [
+        "common fruit fly",
+        "drosophila bifurca",
+        "drosophila funebris",
+        "drosophila lanaiensis",
+        "drosophila melanogaster",
+        "drosophila pseudoobscura",
+        "drosophila simulans",
+        "fruit fly"
+    ],
+    "asian elephant": [
+        "asian elephant",
+        "borneo elephant",
+        "indian elephant",
+        "sri lankan elephant",
+        "sumatran elephant"
+    ],
+    "Asiatic elephant": [
+        "asian elephant",
+        "borneo elephant",
+        "indian elephant",
+        "sri lankan elephant",
+        "sumatran elephant"
+    ],
+    "recluse spider": [
+        "brown recluse",
+        "chilean recluse",
+        "recluse spider"
+    ],
+    "brown spiders": [
+        "brown recluse",
+        "chilean recluse",
+        "recluse spider"
+    ],
+    "violin spiders": [
+        "brown recluse",
+        "chilean recluse",
+        "recluse spider"
+    ],
+    "chihuahua dog": [
+        "adult chihuahua dog",
+        "chihuahua dog",
+        "long haired chihuahua",
+        "smooth coated chihuahua"
+    ],
+    "sperm whale": [
+        "aulophyseter",
+        "sperm whale"
+    ],
+    "cachalot": [
+        "aulophyseter",
+        "sperm whale"
+    ],
+    "tick": [
+        "argasid tick",
+        "hyalomma tick",
+        "ixodes persulcatus",
+        "ixodes ricinus",
+        "ixodid tick",
+        "ornithodoros tick",
+        "tick"
+    ],
+    "peafowl": [
+        "congo peafowl",
+        "female partner to peacock",
+        "green peafowl",
+        "peachick",
+        "peacock",
+        "peafowl",
+        "peahen"
+    ],
+    "eel": [
+        "american eel",
+        "conger",
+        "conger eel",
+        "cutthroat eel",
+        "eel",
+        "electric eel",
+        "european eel",
+        "longneck eel",
+        "moray eel",
+        "sawtooth eel",
+        "snipe eel",
+        "snowflake moray"
+    ]
+}

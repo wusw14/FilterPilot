@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>FilterPilot: An Assistant for Adapting Filtering Predicate to Table Content</title>
+  <link rel="stylesheet" href="./styles.css" />
+
+  <style>
+    /* ===== Improved collapsible toggle ===== */
+    .collapsible {
+      cursor: pointer;
+      font-weight: 600;
+      color: var(--brand);
+      margin-top: 10px;
+      padding: 8px 12px;
+      border-radius: 8px;
+      background: #f5f7fa;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s ease;
+      user-select: none;
+      border: 1px solid #e2e8f0;
+    }
+
+    .collapsible:hover {
+      background: #eef2f7;
+      transform: translateY(-1px);
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    }
+
+    .collapsible::after {
+      content: "";
+      font-size: 12px;
+      color: var(--ink-3);
+      transition: transform 0.2s ease;
+    }
+
+    .collapsible.active::after {
+      transform: rotate(-90deg);
+    }
+
+    .content {
+      margin-top: 8px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>FilterPilot: An Assistant for Adapting Filtering Predicate to Table Content</h1>
+    <div width="1200px" role="group" aria-label="Query controls">
+      <div class="chip">
+        <label for="dbpath">Database Path:</label>
+        <input id="dbpath" placeholder="/path/to/database" />
+        <button id="checkPath" class="btn">Check</button>
+      </div>
+      <div id="pathErr" class="error"></div>
+    </div>
+
+    <!-- Top Controls -->
+    <div class="row grid-4" role="group" aria-label="Query controls">
+      <div class="chip">
+        <label for="table">Table:</label>
+        <select id="table" aria-label="Table"></select>
+      </div>
+
+      <div class="chip">
+        <label for="column">Column:</label>
+        <select id="column" aria-label="Column"></select>
+      </div>
+
+      <div class="chip">
+        <label for="value">Filtering Value:</label>
+        <input id="value" value="spiny anteaters" placeholder="Type a value…" />
+      </div>
+
+      <div class="chip">
+        <label for="limit">Time limit (s):</label>
+        <input id="limit" type="number" min="1" max="600" step="1" value="100" inputmode="numeric" />
+      </div>
+    </div>
+
+    <!-- Action bar -->
+    <div class="bar">
+      <button id="start" class="btn primary">Start</button>
+      <button id="cont" class="btn" disabled title="Click to run next iteration">Continue</button>
+      <button id="stop" class="btn" disabled>Stop</button>
+
+      <span id="cd" class="muted"></span>
+      <span id="status" class="status" data-state="Idle" role="status" aria-live="polite">Idle</span>
+    </div>
+
+    <div id="err" class="error" role="alert" tabindex="-1"></div>
+
+    <!-- Main panel -->
+    <div class="panel">
+      <div class="head">
+        <div class="title">
+          <span class="dot"></span>
+          <span id="stateText">Idle</span>
+        </div>
+        <div class="title muted">Time Cost</div>
+      </div>
+    <!-- Body -->
+    <div class="body">
+
+      <!-- Left side -->
+      <div>
+        <div class="box">
+          <div><strong>LLM reformulated terms</strong></div>
+          <div id="terms" class="mono mt-1"></div>
+        </div>
+
+        <div class="box mt-3">
+          <strong>Iteration Log</strong>
+          <div id="log" class="log-area"></div>
+        </div>
+
+        <div class="box mt-3">
+          <strong>Summary</strong>
+          <!-- Summary main text (rounds, checked count) -->
+          <div id="summaryMain" class="mono mt-1" style="white-space: pre-wrap;"></div>
+          <!-- High section -->
+          <div style="margin-top: 12px; font-size: 13px; font-weight: 580;">
+            Highly Likely Aligned Values (<span id="highCount"></span>)
+          </div>
+          <div id="summaryHigh" class="mono" style="margin-top: 6px;"></div>
+        </div>
+      </div>
+
+      <!-- Right side -->
+      <div>
+        <div class="col">
+          <div><strong>Reformulation Time(s)</strong></div>
+          <div id="t1" class="mono mt-1">-</div>
+        </div>
+
+        <div class="col mt-2">
+          <strong>Total time</strong>
+          <div id="tall" class="mono mt-1">0.00 s</div>
+        </div>
+
+        <!-- Condition -->
+        <div class="col mt-2">
+          <strong>Condition</strong>
+          <div id="cond" class="mono"></div>
+          <button id="copy" class="btn mt-2">Copy</button>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  </div>
+
+  <!-- Toast -->
+  <div id="toast" class="toast" role="status" aria-live="polite">Copied ✓</div>
+
+  <script type="module" src="./app.js"></script>
+
+</body>
+
+</html>
