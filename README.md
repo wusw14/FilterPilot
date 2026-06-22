@@ -12,7 +12,9 @@ FilterPilot is an interactive system that assists the user in writing filtering 
 
 - **Flexible Control:** Users retain full control over the process, with the flexibility to assess intermediate results and decide whether to proceed accordingly.
 
-Our paper is submitted to VLDB Demo Track
+Our paper has been accepted by VLDB 2026 Demo Track!
+
+The video is available [here](https://drive.google.com/file/d/1znmyWT7Vb6vmp5xA2sJUg08DtqLGXAsm/view?usp=sharing)
 
 ## Environment Setup
 ```
